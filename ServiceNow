@@ -1,0 +1,15 @@
+ServiceNow ODBC driver.
+
+1. Download and install Java
+2. Creation of a ServiceNOW user with odbc role to query data from Power Bi
+3. Download the odbc drivers setup file from ServiceNow store.
+4. Installation of ODBC driver on system
+5. Configuration of data source/DSN in ODBC console
+6. Connect from PowerBI
+
+
+
+In PowerBi-
+
+1. Go to Get Data-> Search ODBC-> Give sql query
+2. Give ODBC CREDS.
